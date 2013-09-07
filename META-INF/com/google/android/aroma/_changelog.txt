@@ -8,5 +8,6 @@ ArchiDroid 1.6.3 XXUFME7
 # Additionally root is automatically restored on reboot through 91ArchiDroid_RestoreRoot init.d script (which acts same as RunOnce). This process requires hard reboot which is also performed once through ArchiDroid_Init, fully automatically of course.
 # More scripts will probably be implemented soon. Hope you'll enjoy this idea same as I do :)
 
-- Updated Xposed to 2.2 beta1
-- Updated Nova to 2.2.2beta2
+- Updated Xposed to 2.2 (official)
+- Updated Nova to 2.2.2
+- Updated MX Player to 1.7.19
