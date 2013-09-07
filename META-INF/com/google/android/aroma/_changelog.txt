@@ -1,4 +1,8 @@
 ArchiDroid 1.6.3 XXUFME7
+- [Backport] ArchiDroid_RunOnce improvements
+# Googy Max kernel from AD 2.X used incompatible sqlite3 binary which caused RunOnce to enter infinite loop on every boot, causing battery drain and deep sleep prevention.
+# It is now fixed and additionally I've implemented some important checks to prevent similar problems in the future. This does not hit 1.X of course but backporting improvement anyway.
+
 - [Backport] Added/Implemented first ArchiDroid script - ArchiDroid_TemporaryUnroot
 # ArchiDroid scripts are located in /data/media/0/ArchiDroid/Scripts and overwrited every flash with newest versions.
 # The idea is simple - allow user to perform some tasks with just one click. So it's now simple, fast and reliable.
@@ -11,3 +15,4 @@ ArchiDroid 1.6.3 XXUFME7
 - Updated Xposed to 2.2 (official)
 - Updated Nova to 2.2.2
 - Updated MX Player to 1.7.19
+- Updated Aroma to 2.70 RC2
