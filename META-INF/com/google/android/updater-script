@@ -358,11 +358,14 @@ if file_getprop("/tmp/aroma-data/xposed.prop","selected.0") == "1" then
 	if file_getprop("/tmp/aroma-data/xposed2.prop","item.0.1") == "1" then
 		ui_print("root@ArchiDroid:~# Including App Settings Xposed Module");
 		package_extract_dir("_archidroid/apps/xposed/appsettings", "/");
-	endif;
-	
+	endif;	
 	if file_getprop("/tmp/aroma-data/xposed2.prop","item.0.2") == "1" then
 		ui_print("root@ArchiDroid:~# Including Call Recording Xposed Module");
 		package_extract_dir("_archidroid/apps/xposed/callrecording", "/");
+	endif;
+	if file_getprop("/tmp/aroma-data/xposed2.prop","item.0.3") == "1" then
+		ui_print("root@ArchiDroid:~# Including XPrivacy Xposed Module");
+		package_extract_dir("_archidroid/apps/xposed/xprivacy", "/");
 	endif;
 	
 endif;
