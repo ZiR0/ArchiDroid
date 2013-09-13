@@ -12,7 +12,9 @@ ArchiDroid 1.6.3 XXUFME7
 # Additionally root is automatically restored on reboot through 91ArchiDroid_RestoreRoot init.d script (which acts same as RunOnce). This process requires hard reboot which is also performed once through ArchiDroid_Init, fully automatically of course.
 # More scripts will probably be implemented soon. Hope you'll enjoy this idea same as I do :)
 
+- [Backport] Implemented ArchiDroid_RemoveArchiDroid script, which removes everything attached to ArchiDroid and reboots to recovery allowing you to flash other rom (how dare you! ;)
 - [Backport] Added requested XPrivacy Xposed module
+- Updated BetterBatteryStats to 1.14.0.0
 - Updated Xposed to 2.2 (official)
 - Updated Nova to 2.2.2
 - Updated MX Player to 1.7.19
