@@ -440,6 +440,7 @@ writetmpfile(
 # 1   Adobe Flash Player
 # 1   YouTube
 # 1   Android Terminal Emulator
+# 1   Facebook
 writetmpfile(
   "archiapps.prop",
   "item.0.1=1\n"+
@@ -452,7 +453,8 @@ writetmpfile(
   "item.0.8=1\n"+
   "item.0.9=1\n"+
   "item.0.10=1\n"+
-  "item.0.11=1\n"
+  "item.0.11=1\n"+
+  "item.0.12=1\n"
 );
 
 # 1 HD Voice
@@ -544,7 +546,8 @@ writetmpfile(
   "item.0.8=0\n"+
   "item.0.9=0\n"+
   "item.0.10=0\n"+
-  "item.0.11=0\n"
+  "item.0.11=0\n"+
+  "item.0.12=0\n"
 );
 
 # No ArchiDroid Tweaks
@@ -892,16 +895,16 @@ checkbox(
   "icons/apps",
   "gapps.prop",
 
-  "Google Calendar","",0,
-  "Google Chrome","",1,
-  "Google Ears","",1,
-  "Google Keep","",1,
-  "Google Mail","",1,
-  "Google Maps","",1,
+  "Google Calendar [Inverted]","",0,
+  "Google Chrome [Inverted]","",1,
+  "Google Ears [Inverted]","",1,
+  "Google Keep [Inverted]","",1,
+  "Google Mail [Inverted]","",1,
+  "Google Maps [Inverted]","",1,
   "Google Voice","",1,
-  "Google Hangouts","",0,
-  "Google Now","",0,
-  "Google Plus","",0
+  "Google Hangouts [Inverted]","",0,
+  "Google Now [Inverted]","",0,
+  "Google Plus [Inverted]","",0
 );
 endif;
 
@@ -913,16 +916,16 @@ checkbox(
   "icons/apps",
   "gapps.prop",
 
-  "Google Calendar","",0,
-  "Google Chrome","",1,
-  "Google Ears","",1,
-  "Google Keep","",1,
-  "Google Mail","",1,
-  "Google Maps","",1,
+  "Google Calendar [Inverted]","",0,
+  "Google Chrome [Inverted]","",1,
+  "Google Ears [Inverted]","",1,
+  "Google Keep [Inverted]","",1,
+  "Google Mail [Inverted]","",1,
+  "Google Maps [Inverted]","",1,
   "Google Voice","",1,
-  "Google Hangouts","",0,
-  "Google Now","",0,
-  "Google Plus","",0
+  "Google Hangouts [Inverted]","",0,
+  "Google Now [Inverted]","",0,
+  "Google Plus [Inverted]","",0
 );
 endif;
 
@@ -952,9 +955,10 @@ checkbox(
   "BetterBatteryStats","Gives you power to view more specific battery stats - especially wakelocks",1,
   "CoolTool","Shows some useful statistics on the top bar",1,
   "Root Browser","Very cool browser extended by optional root access",1,
-  "Adobe Flash Player","Adds flash content support. Does not work with Google Chrome",1,
-  "YouTube","Nice inverted player for YouTube",1,
-  "Android Terminal Emulator","Gives you a power to execute any command from linux-like terminal. Hackers keyboard recommended for easy use of special keys",1
+  "Adobe Flash Player [Inverted]","Adds flash content support. Does not work with Google Chrome",1,
+  "YouTube [Inverted]","Inverted version of YouTube app",1,
+  "Android Terminal Emulator","Gives you a power to execute any command from linux-like terminal. Hackers keyboard recommended for easy use of special keys",1,
+  "Facebook [Inverted]","Inverted version of Facebook and Messenger",1
 );
 endif;
 
@@ -974,9 +978,10 @@ checkbox(
   "BetterBatteryStats","Dostarcza o wiele bardziej szczegółowych statystyk dotyczących baterii",1,
   "CoolTool","Wyświetla wiele użytecznych informacji na górnym pasku powiadomień",1,
   "Root Browser","Jeden z najlepszych menadżerów plików, wspomagany opcjonalnie dostępem root",1,
-  "Adobe Flash Player","Zapewnia wsparcie dla technologii flash. Nie działa z Google Chrome",1,
-  "YouTube","Ciemny odtwarzacz YouTube",1,
-  "Android Terminal","Zapewnia mozliwość wykonywania dowolnych komend z terminala znanego z linuxów. Klawiatura Hacker's jest wysoce zalecana",1
+  "Adobe Flash Player [Inverted]","Zapewnia wsparcie dla technologii flash. Nie działa z Google Chrome",1,
+  "YouTube [Inverted]","Ciemny odtwarzacz YouTube",1,
+  "Android Terminal","Zapewnia mozliwość wykonywania dowolnych komend z terminala znanego z linuxów. Klawiatura Hacker's jest wysoce zalecana",1,
+  "Facebook [Inverted]","Ciemna wersja Facebooka i Messengera",1
 );
 endif;
 

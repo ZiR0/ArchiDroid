@@ -72,15 +72,15 @@
 #  Google Apps
 #
 #  Google Calendar
-#  <#selectbg_g>Google Chrome</#>
-#  <#selectbg_g>Google Ears</#>
-#  <#selectbg_g>Google Keep</#>
-#  <#selectbg_g>Google Mail</#>
-#  <#selectbg_g>Google Maps</#>
+#  <#selectbg_g>Google Chrome [Inverted]</#>
+#  <#selectbg_g>Google Ears [Inverted]</#>
+#  <#selectbg_g>Google Keep [Inverted]</#>
+#  <#selectbg_g>Google Mail [Inverted]</#>
+#  <#selectbg_g>Google Maps [Inverted]</#>
 #  <#selectbg_g>Google Voice</#>
-#  Google Hangouts
-#  Google Now
-#  Google Plus
+#  Google Hangouts [Inverted]
+#  Google Now [Inverted]
+#  Google Plus [Inverted]
 
 ##################
 #  ArchiDroid Apps
@@ -93,9 +93,10 @@
 #  <#selectbg_g>BetterBatteryStats</#>
 #  <#selectbg_g>CoolTool</#>
 #  <#selectbg_g>Root Browser</#>
-#  <#selectbg_g>Adobe Flash Player</#>
-#  <#selectbg_g>YouTube</#>
+#  <#selectbg_g>Adobe Flash Player [Inverted]</#>
+#  <#selectbg_g>YouTube [Inverted]</#>
 #  <#selectbg_g>Android Terminal Emulator</#>
+#  <#selectbg_g>Facebook [Inverted]</#>
 
 ##################
 #  ArchiDroid Tweaks
