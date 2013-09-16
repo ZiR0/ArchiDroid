@@ -12,5 +12,10 @@ if [ -z `which fstrim` ]; then
 fi
 
 fstrim -v /data
-echo "Fstrim() of /data done"
+fstrim -v /cache
+fstrim -v /preload
+fstrim -v /system
+fstrim -v /efs
+
+echo "Fstrim() of /data /cache /preload /system /efs done"
 exit 0
