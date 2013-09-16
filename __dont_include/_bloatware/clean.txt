@@ -220,7 +220,6 @@ FaceLock.apk
 /system/media/audio/notifications/S_Chirps.ogg
 /system/media/audio/notifications/S_Dew_drops.ogg
 /system/media/audio/notifications/S_Flowers.ogg
-/system/media/audio/notifications/S_Good_News.ogg
 /system/media/audio/notifications/S_Harmonics.ogg
 /system/media/audio/notifications/S_Knock.ogg
 /system/media/audio/notifications/S_On_time.ogg
