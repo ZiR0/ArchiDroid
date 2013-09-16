@@ -31,6 +31,9 @@ ArchiDroid 1.6.3 XXUFME7
 # Also remember that inverted version saves your eyes and up to 3x more battery in terms of screen. This is how AMOLED works - black pixel requires up to 3x less energy than white one.
 
 - [Backport] Added requested XPrivacy Xposed module
+- [Backport] Minor fixes to ArchiDroid_RunOnce
+# Configs created through presets (f.e. cooltool) were owned by root and that prevented user to change them later. This is now fixed
+
 - Updated BetterBatteryStats to 1.14.0.0
 - Updated Xposed to 2.2 (official)
 - Updated Nova to 2.2.2
