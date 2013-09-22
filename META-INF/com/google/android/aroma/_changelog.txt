@@ -1,2 +1,4 @@
 ArchiDroid 1.6.4 XXUFME7
-- Updated XPrivacy to 1.9.25
+- Updated XPrivacy to 1.10
+- Updated Nova to 2.2.3
+- Updated TouchPal (X) to 5.4.5.2
