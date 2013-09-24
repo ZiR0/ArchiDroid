@@ -1,5 +1,6 @@
 ArchiDroid 1.6.4 XXUFME7
-- Updated XPrivacy to 1.10
+- Updated App Settings (Xposed Module) to 1.5
+- Updated XPrivacy (Xposed Module) to 1.10
 - Updated Nova to 2.2.3
 - Updated TouchPal (X) to 5.4.5.2
 - Updated PhilZ Touch Recovery to 5.15.0
