@@ -50,8 +50,8 @@ text_quit_msg=Çıkmak istediğinize emin misiniz?
 #
 #-- ARCHIDROID STRINGS
 #
-common.for=for
-common.inverted=Inverted
+common.for=için
+common.inverted=Renkleri Ters Çevir
 common.experimental=EXPERIMENTAL
 common.deprecated=DEPRECATED
 common.obsolete=OBSOLETE
@@ -63,7 +63,7 @@ terms.confirm2=Yazılımcıya Saygı Gosterin!
 archidroid.tos=ArchiDroid Şart ve Koşullar
 
 archidroid.detect.fail=Mevcut Archidroid yüklemesi bulunamadı. Full wipe mı yapıldı? Farkli bir romdan geçiş mi yapıyorsunuz?
-archidroid.detect.fail.yes=Evet, Arcidroid'i ilk defa yükleyeceğim.
+archidroid.detect.fail.yes=Evet, Archidroid'i ilk defa yükleyeceğim.
 archidroid.detect.fail.no=Hayır, zaten Archidroid yüklü.
 archidroid.detect.fail.alert.yes=Tamam, Archidroid yüklenecek.
 archidroid.detect.fail.alert.no=Ters olan birşey var. Güncellemeyi deneyeceğim ancak Archidroid mevcut değilse kesinlikle önerilmez.
@@ -156,16 +156,16 @@ archidroid.xposed.xprivacy.desc=Uygulama izinlerini kontrol etmenizi sağlar
 
 archidroid.wizard.reboot=Archidroid başarıyla yüklendi. Cihazınızı yeniden başlatmak ister misiniz?
 
-archidroid.prepinstall=Ready for flashing
-common.flash=Flash
-common.back=Back
+archidroid.prepinstall=Yüklemeye hazır
+common.flash=Yükle
+common.back=Geri
 
-archidroid.prepinstall.desc=You are now ready to begin installation.\
-Press <b>Flash</b> to start.\
-If you want to review or change any of your installation settings, press <b>Back</b>.
+archidroid.prepinstall.desc=Yüklemeye başlamaya hazırsınız.\
+<b>Flash</b> butonuna basarak başlayın.\
+Ayarları tekrar gözden geçirmek veya değiştirmek için <b>Geri</b> tuşuna basın.
 
 common.finish=Son
-common.flashing=Flashliyor
+common.flashing=Yükleniyor
 
 archidroid.install.desc=<b>ArchiDroid</b> şuan yükleniyor\
 Lütfen <b>ArchiDroid</b> yüklenene kadar bekleyin\
